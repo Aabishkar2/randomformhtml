@@ -1,0 +1,21 @@
+.mainbox {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	/*height: 30rem;*/
+}
+
+.question {
+	padding: 1rem;
+}
+
+.answers {
+	margin-left: 2rem;
+}
+
+.form-check {
+	padding-top: 0.3rem;
+}
+
+label {
+	font-size: 1rem;
+}
